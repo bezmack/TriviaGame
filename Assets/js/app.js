@@ -7,7 +7,7 @@ $( document ).ready(function() {
     choice3: 'John and Mary',
     choice4: 'George and Anne',
     answer: 'John and Mary',
-    info: "<img  class= 'img-responsive' width=400 src='assets/images/baby.jpeg'>"
+    info: "<img  class= 'img-responsive' width=400 src='Assets/images/baby.jpeg'>"
   };
 
   var triviaTwo = {
@@ -17,7 +17,7 @@ $( document ).ready(function() {
     choice3: 'in the 19th century, when it became a symbol of the abolition of slavery',
     choice4: 'none of the above',
     answer: 'in the 19th century, when it became a symbol of the abolition of slavery',
-    info: "<img  class= 'img-responsive' width=400 src='assets/images/liberty-bell.jpg'>"
+    info: "<img  class= 'img-responsive' width=400 src='Assets/images/liberty-bell.jpg'>"
   };
 
   var triviaThree = {
@@ -37,7 +37,7 @@ $( document ).ready(function() {
     choice3: '1988',
     choice4: '1965',
     answer: '1988',
-    info: "<img  class= 'img-responsive' width=400 src='assets/images/women.jpg'>"
+    info: "<img  class= 'img-responsive' width=400 src='Assets/images/women.jpg'>"
   };
 
   var triviaFive = {
@@ -47,7 +47,7 @@ $( document ).ready(function() {
     choice3: 'Mickey Mouse',
     choice4: 'Fred Flintstone',
     answer: 'Charlie Brown',
-    info: "<img  class='img-responsive' width=400 src='assets/images/charlie.png'>"
+    info: "<img  class='img-responsive' width=400 src='Assets/images/charlie.png'>"
   };
 
   var triviaSix = {
@@ -57,7 +57,7 @@ $( document ).ready(function() {
     choice3: '$10',
     choice4: '$20',
     answer: '$1',
-    info: "<img  class= 'img-responsive' width=400 src='assets/images/kodak.gif'>"
+    info: "<img  class= 'img-responsive' width=400 src='Assets/images/kodak.gif'>"
   };
 
   var triviaSeven = {
@@ -67,7 +67,7 @@ $( document ).ready(function() {
     choice3: 'Louis Armstrong',
     choice4: 'Joe Louis',
     answer: 'Joe Louis',
-    info: "<img  class= 'img-responsive' width=400 src='assets/images/stamp.jpg'>"
+    info: "<img  class= 'img-responsive' width=400 src='Assets/images/stamp.jpg'>"
   };
 
   var triviaEight = {
@@ -77,7 +77,7 @@ $( document ).ready(function() {
     choice3: '157',
     choice4: '1571',
     answer: '57',
-    info: "<img  class= 'img-responsive' width=400 src='assets/images/helen.jpg'>"
+    info: "<img  class= 'img-responsive' width=400 src='Assets/images/helen.jpg'>"
   };
 
   var triviaNine = {
@@ -87,7 +87,7 @@ $( document ).ready(function() {
     choice3: 'World War I',
     choice4: 'None of the above',
     answer: 'Crimean War',
-    info: "<img  class= 'img-responsive' width=400 src='assets/images/florence.jpg'>"
+    info: "<img  class= 'img-responsive' width=400 src='Assets/images/florence.jpg'>"
   };
 
   var triviaTen = {
@@ -97,7 +97,7 @@ $( document ).ready(function() {
     choice3: '38',
     choice4: '58',
     answer: '18',
-    info: "<img  class= 'img-responsive' width=400 src='assets/images/more.jpg'>"
+    info: "<img  class= 'img-responsive' width=400 src='Assets/images/more.jpg'>"
   };
 
   var triviaQuestion = [
