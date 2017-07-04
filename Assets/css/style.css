@@ -1,0 +1,23 @@
+
+body{
+  background: url('../images/history.jpg');
+  background-size: cover;
+}
+.trivia-cover {
+    margin-top: 5%;
+    background: beige;
+    padding: 5% 0;
+}
+
+.choice{
+  cursor: pointer;
+  padding: .5em;
+}
+
+.choice:hover{
+  background: rgba(83, 49, 12, 0.37);
+}
+
+.question{
+  font-weight: 700;
+}
