@@ -47,7 +47,7 @@ $( document ).ready(function() {
     choice3: 'Mickey Mouse',
     choice4: 'Fred Flintstone',
     answer: 'Charlie Brown',
-    info: "<img  class='img-responsive' width=400 src='Assets/images/charlie.png'>"
+    info: "<img  class='img-responsive'  src='Assets/images/charlie.png'>"
   };
 
   var triviaSix = {
@@ -57,7 +57,7 @@ $( document ).ready(function() {
     choice3: '$10',
     choice4: '$20',
     answer: '$1',
-    info: "<img  class= 'img-responsive' width=400 src='Assets/images/kodak.gif'>"
+    info: "<img  class= 'img-responsive' src='Assets/images/kodak.gif'>"
   };
 
   var triviaSeven = {
@@ -67,7 +67,7 @@ $( document ).ready(function() {
     choice3: 'Louis Armstrong',
     choice4: 'Joe Louis',
     answer: 'Joe Louis',
-    info: "<img  class= 'img-responsive' width=400 src='Assets/images/stamp.jpg'>"
+    info: "<img  class= 'img-responsive' src='Assets/images/stamp.jpg'>"
   };
 
   var triviaEight = {
@@ -77,7 +77,7 @@ $( document ).ready(function() {
     choice3: '157',
     choice4: '1571',
     answer: '57',
-    info: "<img  class= 'img-responsive' width=400 src='Assets/images/helen.jpg'>"
+    info: "<img  class= 'img-responsive' src='Assets/images/helen.jpg'>"
   };
 
   var triviaNine = {
@@ -87,7 +87,7 @@ $( document ).ready(function() {
     choice3: 'World War I',
     choice4: 'None of the above',
     answer: 'Crimean War',
-    info: "<img  class= 'img-responsive' width=400 src='Assets/images/florence.jpg'>"
+    info: "<img  class= 'img-responsive'  src='Assets/images/florence.jpg'>"
   };
 
   var triviaTen = {
@@ -97,7 +97,7 @@ $( document ).ready(function() {
     choice3: '38',
     choice4: '58',
     answer: '18',
-    info: "<img  class= 'img-responsive' width=400 src='Assets/images/more.jpg'>"
+    info: "<img  class= 'img-responsive'  src='Assets/images/more.jpg'>"
   };
 
   var triviaQuestion = [
